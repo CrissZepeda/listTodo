@@ -8,6 +8,4 @@ Practica desarrollo de aplicación de lista To Do, consume API/JSONPlaceholder
 HTML - CSS - Javascript 
 ```
 
-```bash
 [JSONPlaceholder](https://jsonplaceholder.typicode.com)
-```
